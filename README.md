@@ -29,6 +29,7 @@ $ dotnet add package Chibuike.Util.ActionResultExceptionHandler
 
 ```csharp
 // Startup.cs
+using ActionResultExceptionHandler;
 
 // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
@@ -45,6 +46,8 @@ $ dotnet add package Chibuike.Util.ActionResultExceptionHandler
 You can explicitly handle exceptions like so:
 
 ```csharp
+using ActionResultExceptionHandler;
+
     public class ValuesController : ControllerBase
     {
         public readonly ExceptionService _exceptionService;
