@@ -52,7 +52,7 @@ using ActionResultExceptionHandler;
     {
         public readonly ExceptionService _exceptionService;
 
-        public ValuesController exceptionService)
+        public ValuesController (exceptionService)
         {
             _exceptionService = exceptionService;
         }
