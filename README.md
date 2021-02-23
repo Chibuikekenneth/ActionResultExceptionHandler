@@ -12,15 +12,15 @@ This Library targets the ASP.NET Core applications.
 
 ## Installation
 
-<!-- ActionResultExceptionHandler is [available on NuGet](https://www.nuget.org/packages/GlobalExceptionHandler/) and can be installed via the below commands depending on your platform: -->
+ActionResultExceptionHandler is [available on NuGet](https://www.nuget.org/packages/Chibuike.Util.ActionResultExceptionHandler/) and can be installed via the below commands depending on your platform:
 
 ```
-$ Install-Package ActionResultExceptionHandler
+$ Install-Package Chibuike.Util.ActionResultExceptionHandler
 ```
 or via the .NET Core CLI:
 
 ```
-$ dotnet add package ActionResultExceptionHandler
+$ dotnet add package Chibuike.Util.ActionResultExceptionHandler
 ```
 
 ## Bare Bones Setup in your StartUp.cs

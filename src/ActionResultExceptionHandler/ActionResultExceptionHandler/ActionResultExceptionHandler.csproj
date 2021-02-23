@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Chibuike.Util.ActionResultExceptionHandler</PackageId>
+    <Authors>Chibuike Kenneth</Authors>
+    <Description>A Minimalistic Library to handle ActionResult Exceptions</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Chibuikekenneth/ActionResultExceptionHandler</RepositoryUrl>
+    <PackageTags>Exceptions, exception, logs, action, return exceptions</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
